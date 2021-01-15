@@ -49,7 +49,7 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Weather your goal is weight loss, weight gain, athletic performance or
+          Whether your goal is weight loss, weight gain, athletic performance or
           anything in between there's a custom fitness program waiting for you.
         actions:
           - label: Learn More
