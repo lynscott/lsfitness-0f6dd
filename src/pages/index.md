@@ -98,7 +98,7 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: FAQ
-    subtitle: lorem-ipsum
+    subtitle: Common Questions
     background: gray
     faq_items: []
     type: section_faq
