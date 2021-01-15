@@ -88,6 +88,12 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  - section_id: lorem-ipsum
+    title: How Does It Work?
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
   - section_id: call-to-action
     type: section_cta
     title: Ready to make a change?
@@ -96,12 +102,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: lorem-ipsum
-    title: How Does It Work?
-    subtitle: lorem-ipsum
-    background: gray
-    features: []
-    type: section_features
   - section_id: faq
     title: FAQ
     subtitle: Common Questions
