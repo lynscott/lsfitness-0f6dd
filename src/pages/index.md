@@ -56,7 +56,7 @@ sections:
           *   NFPT Certified PT and Resistance Training specialist.
 
 
-          *   6+ years of professional experience,
+          *   6+ years of professional experience.
         actions:
           - label: Learn More
             url: /features
