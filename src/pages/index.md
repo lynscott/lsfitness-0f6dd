@@ -35,10 +35,9 @@ sections:
       - title: Integrate with the fitness tech you already use.
         image: images/integrations.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Bring the health data you already have and continue to track it all in
+          one place.
         actions:
           - label: Learn More
             url: /features
