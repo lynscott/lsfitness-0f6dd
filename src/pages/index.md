@@ -53,9 +53,7 @@ sections:
           anything in between there's a custom fitness program waiting for you.
 
 
-
-
-          *   Certified PT with specialized training in Strength Training.
+          *   NFPT Certified PT and Resistance Training specialist.
 
 
           *   6+ years of professional experience,
