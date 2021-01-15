@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/_DSC5317.jpg
+    image: images/10.jpg
     image_alt: App preview
     title: Fitness For The Digital Age.
     content: >
