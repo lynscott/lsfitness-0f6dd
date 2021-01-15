@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Fitness For The Digital Age.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Using data, cutting edge tech, and tried and true methods to keep you fit
+      no matter where you are.
     actions:
       - label: Learn More
         url: /features
