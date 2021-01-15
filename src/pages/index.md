@@ -96,7 +96,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Stackbit Azimuth Theme
+meta_title: LS Fitness
 meta_description: LS Fitness training program
 template: landing
 ---
