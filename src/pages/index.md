@@ -86,7 +86,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to make a change?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Join our waitlist.
     actions:
       - label: Get Started
         url: /signup
