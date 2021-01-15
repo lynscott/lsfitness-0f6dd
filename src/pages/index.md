@@ -3,31 +3,28 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/10.jpg
     image_alt: App preview
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    title: Fitness For The Digital Age.
+    content: >
+      Using data, cutting edge tech, and tried and true methods to keep you fit
+      no matter where you are.
     actions:
       - label: Learn More
         url: /features
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Why train with me?
     features:
-      - title: The Best Feature of Your Services
+      - title: All in one training platform.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Receive your training program, nutrition guide, get one on one
+          feedback, track your workouts and meals all in the app and online.
         actions:
           - label: Learn More
             url: /features
@@ -35,13 +32,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+      - title: Integrate with the fitness tech you already use.
+        image: images/integrations.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Bring the health data you already have and continue to track it all in
+          one place.
         actions:
           - label: Learn More
             url: /features
@@ -49,13 +45,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Proven methods.
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Whether your goal is weight loss, weight gain, athletic performance or
+          anything in between there's a custom fitness program waiting for you.
         actions:
           - label: Learn More
             url: /features
@@ -66,10 +61,10 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Featured Client Testimonial
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      **Coming Soon** Long time client Adam F. Speaks on his experience training
+      with me.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
@@ -89,8 +84,8 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Ready to make a change?
+    subtitle: Join our waitlist.
     actions:
       - label: Get Started
         url: /signup
@@ -99,7 +94,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Stackbit Azimuth Theme
-meta_description: The preview of the Azimuth theme
+meta_title: LS Fitness
+meta_description: LS Fitness training program
 template: landing
 ---
