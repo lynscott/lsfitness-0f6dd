@@ -92,7 +92,22 @@ sections:
     title: How Does It Work?
     subtitle: lorem-ipsum
     background: gray
-    features: []
+    features:
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
     type: section_features
   - section_id: call-to-action
     type: section_cta
