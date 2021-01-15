@@ -64,8 +64,8 @@ sections:
     background: white
     title: Featured Client Testimonial
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      **Coming Soon** Long time client Adam F. Speaks on his experience training
+      with me.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
