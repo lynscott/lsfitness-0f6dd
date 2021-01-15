@@ -33,7 +33,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Integrate with the fitness tech you already use.
-        image: images/feature2.png
+        image: images/integrations.png
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
