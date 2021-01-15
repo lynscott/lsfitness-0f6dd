@@ -49,10 +49,9 @@ sections:
       - title: Proven methods.
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Weather your goal is weight loss, weight gain, athletic performance or
+          anything in between there's a custom fitness program waiting for you.
         actions:
           - label: Learn More
             url: /features
