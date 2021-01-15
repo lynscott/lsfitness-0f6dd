@@ -107,7 +107,7 @@ sections:
     background: gray
     title: Latest Posts
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: How Does It Work?
     subtitle: lorem-ipsum
     background: gray
     features: []
