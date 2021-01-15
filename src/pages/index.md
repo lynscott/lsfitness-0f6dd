@@ -108,17 +108,15 @@ sections:
     background: gray
     faq_items:
       - question: How do I sign-up?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          ## Rolling Basis
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ###### In order to offer the best quality of service to clients I only
+          take 10 in 10 members at a time to train.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          ###### Signups will go on as a first come first serve basis.
         type: faq_item
     type: section_faq
   - section_id: recent-posts
