@@ -96,6 +96,12 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+  - section_id: lorem-ipsum
+    title: How Does It Work?
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
   - section_id: faq
     title: FAQ
     subtitle: Common Questions
@@ -106,12 +112,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
-    title: How Does It Work?
-    subtitle: lorem-ipsum
-    background: gray
-    features: []
-    type: section_features
 meta_title: LS Fitness
 meta_description: LS Fitness training program
 template: landing
