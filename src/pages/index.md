@@ -96,7 +96,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: faq
     title: FAQ
     subtitle: Common Questions
     background: gray
