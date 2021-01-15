@@ -19,7 +19,7 @@ sections:
     title: Features
     subtitle: Why train with me?
     features:
-      - title: The Best Feature of Your Services
+      - title: All in one training platform.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
