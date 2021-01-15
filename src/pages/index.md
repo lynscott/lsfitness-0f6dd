@@ -96,16 +96,16 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     faq_items: []
     type: section_faq
+  - section_id: recent-posts
+    type: section_posts
+    background: gray
+    title: Latest Posts
 meta_title: LS Fitness
 meta_description: LS Fitness training program
 template: landing
