@@ -51,6 +51,14 @@ sections:
         content: >
           Whether your goal is weight loss, weight gain, athletic performance or
           anything in between there's a custom fitness program waiting for you.
+
+
+
+
+          *   Certified PT with specialized training in Strength Training.
+
+
+          *   6+ years of professional experience,
         actions:
           - label: Learn More
             url: /features
