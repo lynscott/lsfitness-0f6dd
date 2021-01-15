@@ -118,6 +118,19 @@ sections:
 
           ###### Signups will go on as a first come first serve basis.
         type: faq_item
+      - question: Is this a subscription based service?
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
