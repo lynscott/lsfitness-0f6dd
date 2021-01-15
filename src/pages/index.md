@@ -22,10 +22,9 @@ sections:
       - title: All in one training platform.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Receive your training program, nutrition guide, get one on one
+          feedback, track your workouts and meals all in the app and online.
         actions:
           - label: Learn More
             url: /features
