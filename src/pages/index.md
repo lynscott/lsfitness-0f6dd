@@ -94,17 +94,20 @@ sections:
     background: gray
     features:
       - title: Getting Started
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Signup
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          If signup space is open you'll immediately be sent to the application
+          stage to ensure you're a good fit for the program and get you intake
+          data.
 
 
-          - Lorem ipsum
+          If not you'll be placed on the wait-list, first-come first serve. 
 
-          - dolor sit amet
+
+          **To ensure a high quality program I only accept 10 clients at a time
+          for each 3 month program.**
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
