@@ -126,17 +126,10 @@ sections:
         actions: []
         type: feature_item
       - title: After
-        content: >-
+        content: |
           ## Lorem ipsum
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Choice to renew or finish program.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
