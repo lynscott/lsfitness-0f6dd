@@ -95,19 +95,24 @@ sections:
     features:
       - title: Getting Started
         content: >
-          ## Signup
 
 
-          If signup space is open you'll immediately be sent to the application
-          stage to ensure you're a good fit for the program and get you intake
-          data.
+          Once space is available you'll be sent a link to apply for the
+          program. Nothing crazy, just to get a feel for where you are fitness
+          wise and what your goals are to make sure you'll benefit from training
+          with me, don't want to waste anyone's time no either side. If no
+          sign-up spots are available in the program you'll be placed on a
+          waiting list, first come first serve. **To ensure a high quality
+          experience for all, I only work with 10 clients at a time. **
 
 
-          If not you'll be placed on the wait-list, first-come first serve. 
+          If everything checks out you'll be given access to the training
+          platform and I'll start preparing your program. Once your it is ready
+          we'll have our first meeting to get you familiar with the program,
+          using the platform, and answering any questions you might have.
 
 
-          **To ensure a high quality program I only accept 10 clients at a time
-          for each 3 month program.**
+          ****
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
