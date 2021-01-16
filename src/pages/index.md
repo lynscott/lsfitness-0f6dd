@@ -112,6 +112,21 @@ sections:
         actions: []
         type: feature_item
         image: images/about.jpg
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
     type: section_features
   - section_id: call-to-action
     type: section_cta
@@ -176,9 +191,7 @@ sections:
 
           - dolor sit amet
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Do I need access to a gym for this program?
         answer: >-
           ## Lorem ipsum
 
