@@ -114,14 +114,17 @@ sections:
         image: images/about.jpg
       - title: During The Program
         content: >
-          ###### This won't be your average cookie cutter dIY online program,
-          you'll be able to message me anytime in the app with questions
-          regarding your plan, exercises, form or anything else with a 2hr
-          response time 8am to 6pm. We'll go through your program over video
-          call once its complete then we'll meet weekly to check your progress.
+          ###### This won't be your average, cookie cutter online program. 
 
 
-          Accountable
+          Creating your program is only one part of the task, holding you
+          accountable to execute is the real key to success. You'll be able to
+          message me anytime in the app with questions regarding your plan,
+          exercises, lifting form or anything else with a 2hr response time 8am
+          to 6pm. During our weekly I'll make adjustments based on your feedback
+          and progress. It's expected that you'll log your meals and workouts,
+          and I'll be there to remind you if your falling short or push you if
+          your not going hard enough.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
