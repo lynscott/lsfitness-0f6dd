@@ -100,8 +100,11 @@ sections:
           wise and what your goals are to make sure you'll benefit from training
           with me, don't want to waste anyone's time no either side. If no
           sign-up spots are available in the program you'll be placed on a
-          waiting list, first come first serve. **To ensure a high quality
-          experience for all, I only work with 10 clients at a time. **
+          waiting list, first come first serve. 
+
+
+          **To ensure a high quality experience for all, I only work with 10
+          clients at a time. **
 
 
           If everything checks out you'll be given access to the training
