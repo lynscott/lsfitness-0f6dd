@@ -113,17 +113,21 @@ sections:
         type: feature_item
         image: images/about.jpg
       - title: During The Program
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ###### This won't be your average cookie cutter dIY online program,
+          you'll be able to message me anytime in the app with questions
+          regarding your plan, exercises, form or anything else with a 2hr
+          response time 8am to 6pm. We'll go through your program over video
+          call once its complete then we'll meet weekly to check your progress.
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
