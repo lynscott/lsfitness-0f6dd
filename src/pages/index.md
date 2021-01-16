@@ -112,7 +112,7 @@ sections:
         actions: []
         type: feature_item
         image: images/about.jpg
-      - title: lorem-ipsum
+      - title: During The Program
         content: >-
           ## Lorem ipsum
 
