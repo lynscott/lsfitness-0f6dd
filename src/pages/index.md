@@ -95,8 +95,6 @@ sections:
     features:
       - title: Getting Started
         content: >
-
-
           Once space is available you'll be sent a link to apply for the
           program. Nothing crazy, just to get a feel for where you are fitness
           wise and what your goals are to make sure you'll benefit from training
@@ -112,7 +110,7 @@ sections:
           using the platform, and answering any questions you might have.
 
 
-          ****
+          ***
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
