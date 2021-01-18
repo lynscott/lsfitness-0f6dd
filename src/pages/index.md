@@ -96,21 +96,29 @@ sections:
       - title: Getting Started
         content: >
           Once space is available you'll be sent a link to apply for the
-          program. Nothing crazy, just to get a feel for where you are fitness
-          wise and what your goals are to make sure you'll benefit from training
-          with me, don't want to waste anyone's time no either side. If no
-          sign-up spots are available in the program you'll be placed on a
-          waiting list, first come first serve. 
+          program. 
 
 
-          **To ensure a high quality experience for all, I only work with 10
-          clients at a time. **
+          The application is to designed to get a quick picture of your current
+          fitness levels and what your goals are to make sure you'll benefit
+          from training with me. 
 
 
-          If everything checks out you'll be given access to the training
-          platform and I'll start preparing your program. Once your it is ready
-          we'll have our first meeting to get you familiar with the program,
-          using the platform, and answering any questions you might have.
+          If no spots are available to sign-up you'll be placed on a waiting
+          list, first come first serve.
+
+
+          \*\*To ensure a high quality experience for all, I only work with 10
+          people at a time. \*\*
+
+
+          If everything checks out you'll be given access to the training app
+          and I'll start preparing your program. 
+
+
+          When it's ready we'll have our first meeting to get you familiar with
+          the program, using the app, and answering any questions you might
+          have.
 
 
           ***
