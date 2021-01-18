@@ -128,17 +128,21 @@ sections:
         image: images/about.jpg
       - title: During The Program
         content: >
-          ###### This won't be your average, cookie cutter online program. 
+          ###### This won't be your average, cookie cutter online program.
 
 
           Creating your program is only one part of the task, holding you
-          accountable to execute is the real key to success. You'll be able to
-          message me anytime in the app with questions regarding your plan,
-          exercises, lifting form or anything else with a 2hr response time 8am
-          to 6pm. During our weekly I'll make adjustments based on your feedback
-          and progress. It's expected that you'll log your meals and workouts,
-          and I'll be there to remind you if your falling short or push you if
-          your not going hard enough.
+          accountable to execute is the real key to success. 
+
+
+          You'll be able to message me anytime in the app with questions
+          regarding your plan, exercises, lifting form or anything else with a
+          2hr response time 8am to 6pm. 
+
+
+          During our weekly meetings I'll get your feedback on how the program
+          is going and how you feel. I'll make adjustments as needed as you
+          progress.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
