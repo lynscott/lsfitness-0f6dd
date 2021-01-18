@@ -149,9 +149,11 @@ sections:
       - title: After
         content: >
           Towards the end of your program you'll be given the option to renew
-          for another 3 months or end your subscription. Full access to the
-          platform will be revoked but you'll always be able to login and view a
-          summary of your results or start again. 
+          for another 3 months or end your subscription. 
+
+
+          Full access to the platform will be revoked but you'll always be able
+          to login and view a summary of your results or start again.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
