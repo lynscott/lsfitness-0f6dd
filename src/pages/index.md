@@ -90,7 +90,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: lorem-ipsum
     title: How Does It Work?
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     features:
       - title: Getting Started
