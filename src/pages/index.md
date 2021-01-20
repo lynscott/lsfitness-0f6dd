@@ -108,8 +108,8 @@ sections:
           list, first come first serve.
 
 
-          \*\*To ensure a high quality experience for all, I only work with 10
-          people at a time. \*\*
+          **To ensure a high quality experience for all, I only work with 10
+          people at a time.**
 
 
           If everything checks out you'll be given access to the training app
@@ -161,7 +161,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to make a change?
-    subtitle: Join our waitlist.
+    subtitle: Join our wait list.
     actions:
       - label: Get Started
         url: /signup
@@ -171,68 +171,26 @@ sections:
     subtitle: Common Questions
     background: gray
     faq_items:
-      - question: How do I sign-up?
-        answer: >
-          ## Rolling Basis
-
-
-          ###### In order to offer the best quality of service to clients I only
-          take 10 in 10 members at a time to train.
-
-
-          ###### Signups will go on as a first come first serve basis.
-        type: faq_item
       - question: Is this a subscription based service?
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Yes, 3 month commitment. $400/month
         type: faq_item
       - question: Can I just use the app?
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Not yet at this time, it's something I may consider in the future.
         type: faq_item
       - question: Refund Policy
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          No refunds.
+          Once a plan is created and delivered its assumed you plan to use it.
         type: faq_item
       - question: Do I need access to a gym for this program?
         answer: >-
-          ## Lorem ipsum
+          Nope!
+          No gym membership required, we can adjust your plan to work with what equipment you have indoors or outdoors.
 
+          Note: this does effect how difficult it might be to reach your goal, example, gaining lean muscle/strength will be much harder without weights.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         type: faq_item
     type: section_faq
   - section_id: recent-posts
