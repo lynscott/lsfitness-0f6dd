@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/dark_logo_transparent@2x.png",
+        "logo_img": "images/LS Fitness- Blk.svg",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
