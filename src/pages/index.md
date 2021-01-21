@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: white
     title: Why Train With Me?
-    subtitle: Why train with me?
+    subtitle: Not convinced?
     features:
       - title: All in one training platform.
         image: images/clear_mobile.svg
