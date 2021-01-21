@@ -16,11 +16,11 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Features
-    subtitle: Why train with me?
+    title: Why train with me?
+    subtitle: Do it.
     features:
       - title: All in one training platform.
-        image: images/feature1.png
+        image: images/clear_mobile.svg
         image_alt: App preview on a phone and tablet
         content: >
           Receive your training program, nutrition guide, get one on one
@@ -33,7 +33,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Integrate with the fitness tech you already use.
-        image: images/integrations.png
+        image: images/appYellow.svg
         image_alt: App users welcoming a new member
         content: >
           Bring the health data you already have and continue to track it all in
@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Proven methods.
-        image: images/feature3.png
+        image: images/david.svg
         image_alt: App user profile preview
         content: >
           Whether your goal is weight loss, weight gain, athletic performance or
@@ -108,8 +108,8 @@ sections:
           list, first come first serve.
 
 
-          \*\*To ensure a high quality experience for all, I only work with 10
-          people at a time. \*\*
+          **To ensure a high quality experience for all, I only work with 10
+          people at a time.**
 
 
           If everything checks out you'll be given access to the training app
@@ -125,7 +125,6 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/about.jpg
       - title: During The Program
         content: >
           ###### This won't be your average, cookie cutter online program.
@@ -146,6 +145,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/hiw1.gif
       - title: After
         content: >
           Towards the end of your program you'll be given the option to renew
@@ -161,7 +161,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to make a change?
-    subtitle: Join our waitlist.
+    subtitle: Join our wait list.
     actions:
       - label: Get Started
         url: /signup
@@ -171,68 +171,25 @@ sections:
     subtitle: Common Questions
     background: gray
     faq_items:
-      - question: How do I sign-up?
-        answer: >
-          ## Rolling Basis
-
-
-          ###### In order to offer the best quality of service to clients I only
-          take 10 in 10 members at a time to train.
-
-
-          ###### Signups will go on as a first come first serve basis.
-        type: faq_item
       - question: Is this a subscription based service?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: 'Yes, 3 month commitment. $400/month'
         type: faq_item
       - question: Can I just use the app?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: 'Not yet at this time, it''s something I may consider in the future.'
         type: faq_item
       - question: Refund Policy
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          No refunds. Once a plan is created and delivered its assumed you plan
+          to use it.
         type: faq_item
       - question: Do I need access to a gym for this program?
         answer: >-
-          ## Lorem ipsum
+          Nope! No gym membership required, we can adjust your plan to work with
+          what equipment you have indoors or outdoors.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Note: this does effect how difficult it might be to reach your goal,
+          example, gaining lean muscle/strength will be much harder without
+          weights.
         type: faq_item
     type: section_faq
   - section_id: recent-posts
