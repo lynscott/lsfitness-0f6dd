@@ -146,6 +146,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/hiw1.gif
       - title: After
         content: >
           Towards the end of your program you'll be given the option to renew
