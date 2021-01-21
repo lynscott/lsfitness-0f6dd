@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Features
+    title: Why Train With Me?
     subtitle: Why train with me?
     features:
       - title: All in one training platform.
