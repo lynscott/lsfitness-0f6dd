@@ -20,7 +20,7 @@ sections:
     subtitle: Why train with me?
     features:
       - title: All in one training platform.
-        image: images/feature1.png
+        image: images/clear_mobile.svg
         image_alt: App preview on a phone and tablet
         content: >
           Receive your training program, nutrition guide, get one on one
@@ -172,25 +172,24 @@ sections:
     background: gray
     faq_items:
       - question: Is this a subscription based service?
-        answer: >-
-          Yes, 3 month commitment. $400/month
+        answer: 'Yes, 3 month commitment. $400/month'
         type: faq_item
       - question: Can I just use the app?
-        answer: >-
-          Not yet at this time, it's something I may consider in the future.
+        answer: 'Not yet at this time, it''s something I may consider in the future.'
         type: faq_item
       - question: Refund Policy
         answer: >-
-          No refunds.
-          Once a plan is created and delivered its assumed you plan to use it.
+          No refunds. Once a plan is created and delivered its assumed you plan
+          to use it.
         type: faq_item
       - question: Do I need access to a gym for this program?
         answer: >-
-          Nope!
-          No gym membership required, we can adjust your plan to work with what equipment you have indoors or outdoors.
+          Nope! No gym membership required, we can adjust your plan to work with
+          what equipment you have indoors or outdoors.
 
-          Note: this does effect how difficult it might be to reach your goal, example, gaining lean muscle/strength will be much harder without weights.
-
+          Note: this does effect how difficult it might be to reach your goal,
+          example, gaining lean muscle/strength will be much harder without
+          weights.
         type: faq_item
     type: section_faq
   - section_id: recent-posts
