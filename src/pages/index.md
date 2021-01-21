@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Proven methods.
-        image: images/feature3.png
+        image: images/david.svg
         image_alt: App user profile preview
         content: >
           Whether your goal is weight loss, weight gain, athletic performance or
