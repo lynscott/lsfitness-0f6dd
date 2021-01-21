@@ -125,7 +125,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/about.jpg
+        image: images/hiw1.gif
       - title: During The Program
         content: >
           ###### This won't be your average, cookie cutter online program.
