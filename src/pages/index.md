@@ -33,7 +33,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Integrate with the fitness tech you already use.
-        image: images/integrations.png
+        image: images/appYellow.svg
         image_alt: App users welcoming a new member
         content: >
           Bring the health data you already have and continue to track it all in
